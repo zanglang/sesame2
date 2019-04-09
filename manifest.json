@@ -1,9 +1,9 @@
 {
-  "domain": "sesame",
-  "name": "Sesame",
+  "domain": "sesame2",
+  "name": "Sesame Smart Lock (API v3)",
   "documentation": "https://www.home-assistant.io/components/sesame",
   "requirements": [
-    "pysesame==0.1.0"
+    "https://github.com/zanglang/pysesame2@patch-1#pysesame2==1.0.0"
   ],
   "dependencies": [],
   "codeowners": []
