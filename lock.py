@@ -9,7 +9,7 @@ from homeassistant.const import (
     STATE_LOCKED, STATE_UNLOCKED)
 from homeassistant.helpers.typing import ConfigType
 
-REQUIREMENTS = ['https://github.com/zanglang/pysesame2/archive/1.0.0.zip']
+REQUIREMENTS = ['pysesame2==1.0.1']
 
 ATTR_SERIAL_NO = 'serial'
 
